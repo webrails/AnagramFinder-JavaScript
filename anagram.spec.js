@@ -1,7 +1,6 @@
 (function () {
     "use strict";
     describe("Anagram", function () {
-        var kataBankOCR;
         beforeEach(function () {
             this.anagramFinder = new Anagram();
         });
